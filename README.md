@@ -47,3 +47,15 @@ Installs the latest Docker Engine Community Edition using Docker’s official re
 ```bash
 chmod +x install-docker-on-rhel.sh
 ./install-docker-on-rhel.sh
+```
+---
+
+## 📘 License
+
+MIT License. Use freely, modify, and share — but no warranty is provided.
+
+---
+
+## 🙋‍♂️ Author
+
+Built by Emslyyy — crafted for Red Hat RHCSA prep and containerized home lab experiments.
